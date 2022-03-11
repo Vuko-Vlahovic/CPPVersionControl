@@ -8,4 +8,5 @@ void greet()
 int main()
 {
 	greet();
+	std::cout << "You are awesome! \n";
 }
